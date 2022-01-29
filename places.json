@@ -4,4 +4,14 @@
         "name": "Banglore",
         "state": "Karnataka"
     },
+    {
+        "id":2,
+        "name": "Chennai",
+        "state": "TamiNadu"
+    },
+    {
+        "id":3,
+        "name": "Pune",
+        "state": "Maharastra"
+    },   
 ]
